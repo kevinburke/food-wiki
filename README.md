@@ -12,6 +12,11 @@ The websites listed here should ideally meet the following criteria:
 
 - Site should give a recommendation about the food - should I go? If so what dishes should I try?
 
+- Site should be familiar with [the tips on this page][tips] for finding and
+ordering food.
+
+ [tips]: https://tylercowensethnicdiningguide.com/?page_id=2388
+
 ## Listings
 
 ### North America
