@@ -42,7 +42,11 @@ restaurants in LA][101-top].
 
 ### Asia
 
+- **Saigon:** [Legal Nomads][saigon]
+
 - **Taipei:** [Hungry in Taipei][taipei]
 
  [taipei]: http://hungryintaipei.blogspot.tw/
+
+ [saigon]: http://www.legalnomads.com/2014/06/saigon-street-food.html
 
